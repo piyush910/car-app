@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Car Application</string>
+    <string-array name="urls">
+        <item>https://www.audiusa.com/</item>
+        <item>https://www.ferrari.com/en-US</item>
+        <item>https://www.ford.com/</item>
+        <item>https://www.ferrari.com/en-US</item>
+        <item>https://www.lamborghini.com/en-en</item>
+        <item>https://www.lamborghini.com/en-en</item>
+        <item>https://www.mbusa.com/en/home</item>
+        <item>https://www.rolls-roycemotorcars.com/en-US/home.html</item>
+        <item>http://www.vw.com/</item>
+    </string-array>
+</resources>
